@@ -1,0 +1,9 @@
+--haha funny number
+i = 1
+repeat
+    print(i)
+    i = i + 1
+until i == 70
+if i == 70 then
+    print("nice")
+end
